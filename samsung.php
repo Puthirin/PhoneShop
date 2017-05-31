@@ -93,49 +93,48 @@
 					<div class="container-fluid">
 						<div class="navbar-header">
 							<a class="navbar-brand" href="#">
-								<img alt="Brand" src="img\huawei.png" style="width: 100px; height: 35px;">
+								<img alt="Brand" src="img\samsung.png" style="width: 100px; height: 50px;margin-top: -15px;">
 							</a>
 						</div>
 					</div>
 				</nav>
-				<div class="panel-default col-md-2 col-xs-2 col-sm-2" id="show">
+				<div class="panel-default col-md-2 col-sm-2 col-sm-2" id="show">
 					<div class="thumbnail">
-						<img src="img\P10.jpg" alt="...">
-						<p>Huawei P10</p>
-
+						<img src="img\s8+.jpg" alt="...">
 						<div class="caption">
 							
-						</div>
-					</div>
-				</div>
-
-				<div class="panel-default col-md-2 col-xs-2 col-sm-2" id="show">
-					<div class="thumbnail">
-						<img src="img\p10plus.jpg" alt="...">
-						<p>Huawei P10Pluse</p>
-						<div class="caption">
-							
-							
+							<p>Samsung Galaxy S8+</p>
 
 						</div>
 					</div>
 				</div>
-				<div class="panel-default col-md-2 col-xs-2 col-sm-2" id="show">
+
+				<div class="panel-default col-md-2 col-sm-2 col-sm-2" id="show">
 					<div class="thumbnail">
-						<img src="img\GR5.png" alt="...">
+						<img src="img\s8.jpg" alt="...">
 						<div class="caption">
 							
-							<p>Huawei GR5 2017</p>
+							<p>Samsung Galaxy S8</p>
 
 						</div>
 					</div>
 				</div>
-				<div class="panel-default col-md-2 col-xs-2 col-sm-2" id="show">
+				<div class="panel-default col-md-2 col-sm-2 col-sm-2" id="show">
 					<div class="thumbnail">
-						<img src="img\GR5mini.jpg" alt="...">
+						<img src="img\A7.jpg" alt="...">
 						<div class="caption">
 							
-							<p>Huawei GR5mini</p>
+							<p>Samsung A7 2017</p>
+
+						</div>
+					</div>
+				</div>
+				<div class="panel-default col-md-2 col-sm-2 col-sm-2" id="show">
+					<div class="thumbnail">
+						<img src="img\J7prime.jpg" alt="...">
+						<div class="caption">
+							
+							<p>Samsung Galaxy J7 Prime</p>
 						</div>
 					</div>
 				</div>

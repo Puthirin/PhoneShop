@@ -50,13 +50,13 @@
 			</div><!-- /.navbar-collapse -->
 		</div><!-- /.container-fluid -->
 	</nav>
-	<div class="container col-md-12 col-xs-12 col-sm-12" id="r">
-		<div class=" col-md-6 col-xs-6" >
+	<div class="container col-md-12 col-xs-12 col-sm-12">
+		<div class=" col-md-6 col-xs-6" id="brand" >
 			<img src="img/phoneshop.svg">
 
 		</div>
-		<div class=" col-md-6 col-xs-6 col-sm-6" style="text-align: left;margin-top: 3%">
-		<div style="margin-left: 60%">
+		<div class=" col-md-6 col-xs-6 col-sm-6" style="text-align: right;margin-top: 3%">
+		<div style="margin-left: 25%">
 			<h3 style="color: black;">Heng Lay Phone Shop</h3>
 			<h3 style="color: black;">More information:
 			</h3>
@@ -96,15 +96,15 @@
 						<img alt="Brand" src="img\huawei.png" style="width: 100px; height: 35px; margin-top: 10px;">
 							
 						</div>
-						
-					</div>
-					<div class="container-fluid">
-						<div  class="navbar-header" style="margin-left: 80%;margin-top: 1%" >
+						<div  class="navbar-header navbar-right" >
 							<a  href="huawei.php">
-								<button class="btn btn-default " >more</button>
+								<button class="btn btn-default navbar-btn " >more</button>
 							</a>
 						</div>
 					</div>
+					
+						
+					
 					
 				</nav>
 				<div class="panel-default col-md-2 col-xs-2 col-sm-2" id="show">
@@ -178,6 +178,11 @@
 								<img alt="Brand" src="http://www.pngall.com/wp-content/uploads/2016/03/Samsung-Logo-Transparent-PNG.png" style="width: 100px; height: 20px;">
 							</a>
 						</div>
+						<div  class="navbar-header navbar-right" >
+							<a  href="samsung.php">
+								<button class="btn btn-default navbar-btn " >more</button>
+							</a>
+						</div>
 					</div>
 				</nav>
 				<div class="panel-default col-md-2 col-sm-2 col-sm-2" id="show">
@@ -229,6 +234,11 @@
 						<div class="navbar-header">
 							<a class="navbar-brand" href="#">
 								<img alt="Brand" src="img\iphone-brand.png" style=" height: 30px;">
+							</a>
+						</div>
+						<div  class="navbar-header navbar-right" >
+							<a  href="iphone.php">
+								<button class="btn btn-default navbar-btn " >more</button>
 							</a>
 						</div>
 					</div>
@@ -284,6 +294,11 @@
 								<img alt="Brand" src="img\oppo.png" style=" height: 30px;">
 							</a>
 						</div>
+						<div  class="navbar-header navbar-right" >
+							<a  href="oppo.php">
+								<button class="btn btn-default navbar-btn " >more</button>
+							</a>
+						</div>
 					</div>
 				</nav>
 				<div class="panel-default col-md-2 col-sm-2 col-sm-2" id="show">
@@ -335,6 +350,11 @@
 						<div class="navbar-header">
 							<a class="navbar-brand" href="#">
 								<img alt="Brand" src="img\sugar.jpg" style=" height: 20px;">
+							</a>
+						</div>
+						<div  class="navbar-header navbar-right" >
+							<a  href="sugar.php">
+								<button class="btn btn-default navbar-btn " >more</button>
 							</a>
 						</div>
 					</div>
